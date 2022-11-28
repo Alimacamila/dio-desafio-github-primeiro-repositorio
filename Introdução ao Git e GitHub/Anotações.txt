@@ -1,0 +1,7 @@
+*Comandos básicos para o Git Bash*
+- clear: limpar tudo do Git Bash.
+- git clone “HTTPS”: clonar os arquivos do github no Git Bash.
+- git status: mostra todas as alterações dentro das pastas.
+- git add . / git add -A: atualiza as alterações dentro da pasta.
+- git commit -m “xxx”:  coloca uma mensagem na atualização.
+- git push origin main: atualiza no github.
